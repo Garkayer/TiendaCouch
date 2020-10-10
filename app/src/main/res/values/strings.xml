@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TiendaCouch</string>
+    <string-array name="operaciones">
+        <item>Seleccione un elemento</item>
+        <item>Suma</item>
+        <item>Resta</item>
+        <item>Multiplicacion</item>
+        <item>Division</item>
+    </string-array>
+</resources>
